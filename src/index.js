@@ -1,5 +1,4 @@
 import ReactDOM  from "react-dom";
-import { Component } from "react";
 
 import './index.css';
 
